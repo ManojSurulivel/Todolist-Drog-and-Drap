@@ -24,7 +24,7 @@ This is a **To-Do List application** built with **React.js** and **Vite.js** tha
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todolist-dnd.git
+   git clone https://github.com/ManojSurulivel/Todolist-Drog-and-Drap.git
    cd todolist-dnd
    ```
 2. Install dependencies:
